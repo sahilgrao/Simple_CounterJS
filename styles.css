@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.error{
+    color:red;
+    display: none;
+}
+
+.buttons{
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#clear{
+    display: none;
+    background-color: black;
+    color:white;
+    border: 1px solid white;
+}
